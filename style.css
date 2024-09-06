@@ -1,0 +1,47 @@
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 26px;
+  letter-spacing: 2px;
+  word-spacing: 2px; /* html-css-js.com sitesinden font seçenekleri bulup onları kullandım */
+  color: #000000;
+  font-weight: normal;
+  font-style: normal;
+  font-variant: small-caps;
+}
+
+body {
+  background-color: rgb(237, 191, 183); /* coolors.com sitesinden yararlandım */
+  color: #000003;
+}
+
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  letter-spacing: 1px;
+  word-spacing: 1px;   
+  color: #000000;
+  font-weight: normal;
+  font-style: normal;
+  font-variant: normal;
+  width: 90%; /* yine aynı siteden yararlandım. paragraf çok uzadığı için width ekledim */
+}
+
+ /* hr {
+    background-color: #E06C9F;
+    height: 5px;
+    width: 90%;
+    border-width: 3px;
+    border-color: #D04B84 ;
+}
+    */
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 26px;
+    letter-spacing: 2px;
+    word-spacing: 2px; /* html-css-js.com sitesinden font seçenekleri bulup onları kullandım */
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: normal;
+    font-style: normal;
+    font-variant: small-caps;
+}    
